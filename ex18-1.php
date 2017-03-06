@@ -7,6 +7,6 @@
 		</style>
 	</head>
 	<body>
-		<h1>Hello there please work</h1>
+		<h1>Hello there</h1>
 	</body>
 </html>
